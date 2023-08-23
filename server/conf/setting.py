@@ -3,7 +3,7 @@ import os,sys
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 HOST = '0.0.0.0'
-PORT = 9997
+PORT = 9999
 
 USER_HOME_DIR = os.path.join(BASE_DIR,'home')
 
