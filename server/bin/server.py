@@ -8,3 +8,4 @@ if __name__ == '__main__':
     from core import management
 
     argv_parse = management.ManagementTool(sys.argv)
+    argv_parse.execute()
